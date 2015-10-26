@@ -15,6 +15,7 @@
 **Добавление изменений**
 > …or push an existing repository from the command line <br>
 > git remote add origin https://github.com/zurgss/Progress.git <br>
+> git remote add origin git@github.com:zurgss/Progress.git <br>
 > git push -u origin master
 
 Это как желательно делать, а мы же будем делать<br>
