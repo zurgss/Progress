@@ -16,3 +16,10 @@
 > …or push an existing repository from the command line <br>
 > git remote add origin https://github.com/zurgss/Progress.git <br>
 > git push -u origin master
+
+Это как желательно делать, а мы же будем делать<br>
+**git push origin master**<br>
+Подумал что очень хорошо вписывать в своей оценочной системе, на сколько хорош прогресс:
+* OVER - Мочишь батя
+* GJER - Создал, Пересоздал, Доделал, Запустил
+* FFMS - Плачу, но для будущего сделано что-то (For Future Made Something)
