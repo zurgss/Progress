@@ -13,6 +13,6 @@
 ###Первое время буду подгружать только файл Readme.md
 
 **Добавление изменений**
-> …or push an existing repository from the command line
-> git remote add origin https://github.com/zurgss/Progress.git
+> …or push an existing repository from the command line <br>
+> git remote add origin https://github.com/zurgss/Progress.git <br>
 > git push -u origin master
