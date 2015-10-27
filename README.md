@@ -11,7 +11,7 @@
 **Для того чтобы использование гитхаба стало приятным и легким, нужно знать:**
 * Справку использования функционала:
  * Гита - [Гит](http://blog.sectorit.net/development/430)
- * Маркдауна - [Марк](https://help.github.com/articles/markdown-basics/)
+ * Маркдауна - [Марк](https://help.github.com/articles/markdown-basics/) [еще Марк](https://github.com/sandino/Markdown-Cheatsheet)
 * Быстрое использование Гита [SSH](https://github.com/zurgss/Progress/wiki/SSH-%D0%BA%D0%BB%D1%8E%D1%87%D0%B8)
 * Настройка gitconfig [Настройка](http://habrahabr.ru/post/164297/)
 
