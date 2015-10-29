@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+k+p"], "command": "gist" },
+	{ "keys": ["ctrl+k+i"], "command": "gist_private" },
+	{ "keys": ["ctrl+k+l"], "command": "gist_update_file" },
+	{ "keys": ["ctrl+k", "ctrl+o"], "command": "gist_list" },
+	{ "keys": ["ctrl+k", "ctrl+["], "command": "insert_gist_list" },
+	{ "keys": ["ctrl+k", "ctrl+]"], "command": "gist_add_file" }
+]

@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	]
+}
