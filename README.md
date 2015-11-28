@@ -1,3 +1,3 @@
 Достижения
 
-![GitHub Logo](http://i.imgur.com/VZJUzNI.png)
+![GitHub Logo](http://i.imgur.com/TgjybJq.png)
